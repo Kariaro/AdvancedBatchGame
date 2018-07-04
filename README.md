@@ -40,8 +40,7 @@ Blocks: "#"  # If you want to have a space as a block you need to use ÿ insted
 # Map: <x coord>, <y coord>
 # more characters ...
 #
-# Well i think its better if you check out text.txt
-# for more info.
+# Well i think its better if you check out text.txt for more info.
 
 END
 Map 0,0
