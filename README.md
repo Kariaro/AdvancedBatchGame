@@ -1,5 +1,5 @@
 # AdvancedBatchGame
-I dont always do batch, but when i do. I do it good.
+I dont always do batch, but when I do. I do it good.
 
 
 This code is just me having fun with my hobby.
@@ -7,7 +7,7 @@ Copy and share. Do what you want. :D
 
 ### Creating your own map
 
-In text.txt is the information about how i did a simple map but if you want to hand craft one
+In text.txt is the information about how I did a simple map but if you want to hand craft one
 
 ```
 # Comments is fun? YES ........
